@@ -1,3 +1,0 @@
-﻿  Domashnyaya_rabota.cpp
-C:\Users\Admin\source\repos\Domashnyaya_rabota\Domashnyaya_rabota\Domashnyaya_rabota.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Domashnyaya_rabota.vcxproj -> C:\Users\Admin\source\repos\Domashnyaya_rabota\x64\Debug\Domashnyaya_rabota.exe
