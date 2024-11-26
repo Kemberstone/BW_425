@@ -1,0 +1,8 @@
+﻿  DZ3_week4.cpp
+C:\Users\Admin\source\repos\DZ1_week4\DZ3_week4\DZ3_week4.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  3 of 12 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  DZ3_week4.vcxproj -> C:\Users\Admin\source\repos\DZ1_week4\x64\Release\DZ3_week4.exe
